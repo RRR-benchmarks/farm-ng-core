@@ -1,3 +1,15 @@
+# **PROVENANCE NOTICE**
+
+---
+
+**Source Repository and Reference Commit:**  
+https://github.com/farm-ng/farm-ng-core/commit/5118d5e9527db1349e43215778646f799fa2e241
+
+**Note:**  
+To comply with double-blind review requirements, this fork’s commit history was anonymized. The transformed and instrumented codes included in this repository were produced from this reference commit.
+
+---
+
 # farm-ng-core
 <h1 align="center"> farm-ng-core </h1>
 
